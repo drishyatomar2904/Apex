@@ -64,7 +64,7 @@ The optimization process follows a continuous 5-step cycle:
 * **Smart Contracts:** Solidity (Ethereum) or Rust (Solana)
 * **Backend/AI:** Python (Pandas, Scikit-Learn/TensorFlow for prediction models)
 * **Blockchain Interaction:** Web3.py or Ethers.js
-* **Frontend:** React.js or Next.js
+* **Frontend:** Vite React
 * **Oracles:** Chainlink (for reliable price feeds)
 
 ## Getting Started
