@@ -16,7 +16,7 @@ DeFi offers high returns, but manual investing faces three major hurdles:
 2.  **Hidden Costs:** High gas fees can turn a "profitable" trade into a loss.
 3.  **Safety:** Rug pulls and smart contract bugs are real risks.
 
-[cite_start]**Apex solves this by automating the decision-making process.** 
+**Apex solves this by automating the decision-making process.** 
 
 ---
 
