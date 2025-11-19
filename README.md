@@ -3,15 +3,13 @@
 > **The Intelligent, Automated Financial Machine for Decentralized Finance.**
 > *Your personal 24/7 crypto analyst that maximizes yield while minimizing gas fees and risk.*
 
-![Project Banner]<img width="1200" height="558" alt="image" src="https://github.com/user-attachments/assets/cdfe6b66-5bf6-41ca-82fe-3229267401ed" />
-
-## 📖 Overview
+## Overview
 
 **Apex** is an automated "Yield Farming Vault" driven by a Machine Learning Strategy Engine. It solves the complexity of DeFi by acting as a personal robot that manages your cryptocurrency assets.
 
 In the chaotic world of Decentralized Finance, interest rates change every second, and transaction costs (gas fees) can eat up your profits. Apex scans hundreds of investment opportunities, calculates the **true net return** (Profit - Gas Fees), and automatically moves your funds to the most profitable pool.
 
-## 💡 The Core Problem Solved
+## The Core Problem Solved
 
 DeFi offers high returns, but manual investing faces three major hurdles:
 1.  [cite_start]**Analysis Paralysis:** Thousands of platforms (Aave, Curve, Compound) offer rates that change constantly[cite: 6].
@@ -22,30 +20,31 @@ DeFi offers high returns, but manual investing faces three major hurdles:
 
 ---
 
-## ⚙️ System Architecture
+## System Architecture
+<img width="660" height="224" alt="image" src="https://github.com/user-attachments/assets/31de5ec0-2f29-45d8-b35c-6de2dc376aa2" />
 
 The project consists of four main modular components:
 
-### 1. 👁️ The Data Collector ("The Eyes")
+### 1. The Data Collector ("The Eyes")
 * [cite_start]**Function:** Constantly monitors the DeFi landscape 24/7[cite: 15].
 * [cite_start]**Data Points:** Real-time APYs from lending protocols, current blockchain gas fees, and token market volatility[cite: 17, 18, 19, 20].
 
-### 2. 🧠 The AI Strategy Engine ("The Brain")
+### 2. The AI Strategy Engine ("The Brain")
 * [cite_start]**Function:** The core logic that predicts the best path forward[cite: 22].
 * **Logic:** It doesn't just chase the highest APY. [cite_start]It calculates the **Net Return** (Projected Earnings - Transaction Costs)[cite: 23].
 * [cite_start]**Intelligence:** It learns from historical data (e.g., avoiding transfers during high gas spikes) and filters out untested, risky platforms[cite: 24, 25, 26].
 
-### 3. 💎 The Smart Contract Vault ("The Hands")
+### 3. The Smart Contract Vault ("The Hands")
 * [cite_start]**Function:** An automated bank account on the blockchain that securely holds user funds[cite: 27, 28].
 * **Action:** Executes the "Rebalancing." [cite_start]When the AI Brain signals a better opportunity, this contract automatically moves funds from the old pool to the new one[cite: 30, 31].
 
-### 4. 💻 The User Dashboard ("The Interface")
+### 4. The User Dashboard ("The Interface")
 * [cite_start]**Function:** A clean web interface for users to deposit assets (USDC, DAI, etc.)[cite: 34, 35].
 * [cite_start]**Features:** Displays current APY, total earnings, and a history of AI-driven rebalancing actions[cite: 36].
 
 ---
 
-## 🔄 How It Works
+## How It Works
 
 The optimization process follows a continuous 5-step cycle:
 
@@ -60,7 +59,7 @@ The optimization process follows a continuous 5-step cycle:
 
 ---
 
-## 🛠️ Tech Stack (Suggested)
+## Tech Stack (Suggested)
 
 * **Smart Contracts:** Solidity (Ethereum) or Rust (Solana)
 * **Backend/AI:** Python (Pandas, Scikit-Learn/TensorFlow for prediction models)
@@ -68,7 +67,7 @@ The optimization process follows a continuous 5-step cycle:
 * **Frontend:** React.js or Next.js
 * **Oracles:** Chainlink (for reliable price feeds)
 
-## 🚀 Getting Started
+## Getting Started
 
 *(Add instructions here on how to run your specific code, for example:)*
 
@@ -89,7 +88,7 @@ The optimization process follows a continuous 5-step cycle:
     python engine/main.py
     ```
 
-## 📄 License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
