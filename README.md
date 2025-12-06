@@ -1,4 +1,4 @@
-<img width="1200" height="558" alt="image" src="https://github.com/user-attachments/assets/61543280-5e62-437b-af38-2e56c65beb85" /># Apex: AI-Driven DeFi Optimizer
+<img width="1200" height="558" alt="image" src="https://github.com/user-attachments/assets/61543280-5e62-437b-af38-2e56c65beb85" />
 
 > **The Intelligent, Automated Financial Machine for Decentralized Finance.**
 > *Your personal 24/7 crypto analyst that maximizes yield while minimizing gas fees and risk.*
